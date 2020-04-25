@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/pay.iml" filepath="$PROJECT_DIR$/pay.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-pay.iml" filepath="$PROJECT_DIR$/spring-boot-pay.iml" />
     </modules>
   </component>
 </project>
